@@ -8,3 +8,5 @@ meteor-platform
 insecure
 mizzao:bootstrap-3
 coffeescript
+iron:router
+sacha:spin
