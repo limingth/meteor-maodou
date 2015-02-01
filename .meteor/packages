@@ -10,3 +10,8 @@ mizzao:bootstrap-3
 coffeescript
 iron:router
 sacha:spin
+mquandalle:bower
+jparker:crypto-sha256
+jparker:crypto-hmac
+jparker:crypto-core
+jparker:crypto-base64

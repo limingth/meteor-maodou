@@ -161,3 +161,41 @@ body {
   margin-bottom: 5px;
   pointer-events: auto;
 }
+
+/* styles for plugin */
+
+html {
+  height: 100%;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  height: 100%;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.hide {
+  display: none;
+}
+
+iframe {
+  overflow: scroll;
+  width: 100%;
+  height: 100%;
+  border: none;
+  background-color: transparent;
+}
+
+#meet-container {
+  height: 100%;
+  width: 100%;
+}
+
+iframe {
+  overflow: hidden !important;
+}
